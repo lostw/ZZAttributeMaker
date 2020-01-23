@@ -33,7 +33,7 @@ two.attributedText = text.styled.make {
 
 
 
-![](/Users/mac/Documents/ios/ZZAttributeMaker/ScreenShot.png)
+![](ScreenShot.png)
 
 ## 其他
 
